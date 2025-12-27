@@ -14,3 +14,7 @@ Built with:
 Notes:
 - Color is stable per tab session using sessionStorage
 - Session ID is hashed to select a deterministic theme
+
+To replicate:
+1. Clone this repo
+2. Open the html file in your browser
